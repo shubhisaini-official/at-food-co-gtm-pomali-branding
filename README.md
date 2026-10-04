@@ -1,52 +1,37 @@
 # at-food-co-gtm-pomali-branding
-GTM strategy, emotional &amp; sensory branding framework, and Pomali AI brand book automation spec for AT Food Co. Features push/pull GTM models, price positioning layers, and automated AI product photoshoot workflows.
-# 🐶 AT Food Co. — Go-To-Market (GTM) Strategy, Sensory Branding & Pomali AI Engine
-> **Brand & Product Management Architecture: Push/Pull GTM Dynamics, Multi-Sensorial Positioning, and Automated AI Brand Asset Generation via Pomali**
+Setting up the core AI Business Profile and Brand DNA context in Google Pomelli for AT Food Co. Includes prompt inputs, color system logic, brand values, and tone of voice configuration.
+# 🐶 AT Food Co. — Google Pomelli AI: Business Profile & Brand DNA Architecture
+> **Episode 13-A: Establishing the AI Context, Color Mechanics, Value Pillars, and Voice Configuration**
 
-[![Domain](https://img.shields.io/badge/Domain-GTM%20Strategy%20%7C%20AI%20Branding-orange)](#)
-[![Stack](https://img.shields.io/badge/Stack-Pomali%20AI%20%7C%20Brand%20Ops%20%7C%20Visual%20Design-blue)](#)
-[![Methodology](https://img.shields.io/badge/Methodology-Sensory%20%26%20Emotional%20Branding-green)](#)
-
----
-
-## 📌 Executive Summary & Strategic Scope
-
-* **The Challenge:** Building a standout D2C brand for **AT Food Co.** requires moving beyond basic visual assets (logos and fonts). To win in the fresh pet food category, we must establish a distinct Go-To-Market (GTM) strategy, tap into emotional "kibble guilt," and create sensory brand recall.
-* **The AI Workflow:** Utilizing **Pomali** (Google-powered AI branding engine) to rapidly automate our Brand DNA, generate ready-to-publish Brand Books, and produce studio-grade campaign creatives without costly physical photoshoots.
+[![Domain](https://img.shields.io/badge/Domain-Brand%20Strategy%20%7C%20AI%20Ops-orange)](#)
+[![Tool](https://img.shields.io/badge/Tool-Google%20Pomelli-blue)](#)
+[![Methodology](https://img.shields.io/badge/Methodology-Context%20Engineering-green)](#)
 
 ---
 
-## 🚀 Go-To-Market (GTM) Architecture: Push vs. Pull
+## 📌 Executive Summary
 
-    Strategy Type | Channel Execution                              | Customer Mindset                       | AT Food Co. Application
-    --------------|------------------------------------------------|----------------------------------------|---------------------------------------------------
-    Push GTM      | Performance Ads, Influencer Outbound           | Passive / Discovery                    | Highlighting fresh food benefits on Reels
-    Pull GTM      | Generative Search (GEO), Intent-based Search   | Active Problem-Seeking                 | Intercepting "dog refuses dry kibble" searches
+* **Objective:** Configure Google Pomelli's underlying AI context for **AT Food Co.** to ensure all downstream brand books, product photoshoots, websites, and ad campaigns maintain strict brand consistency.
+* **Core Output:** Verified AI Business Profile containing seed prompts, color hex standards, value pillars, and tone guidelines.
 
 ---
 
-## 🎨 Sensory, Emotional & Price Positioning Matrix
+## ⚙️ 1. Step-by-Step Business Profile Setup
 
-### 1. Emotional Branding & "Kibble Guilt"
-* Transmuting pet owner anxiety over processed commercial food into joyful empowerment through fresh, chef-prepared nutrition and app health tracking.
-
-### 2. Sensory Branding Touchpoints
-* **Visual:** Warm, earthy, appetizing colors (fresh greens, rich proteins) communicating human-grade quality.
-* **Tactile & Experience:** Vacuum-sealed, eco-friendly portion pouches designed for 5-second mess-free serving.
-
-### 3. Price as a Branding Layer
-* Strategic positioning: Pricing sitting above commercial kibble to signal premium human-grade ingredients, paired with a 50% off trial box to remove initial adoption friction.
+<img width="812" height="623" alt="image" src="https://github.com/user-attachments/assets/d1faf2ea-7825-4199-ac8b-178f3a3367c2" />
 
 ---
 
-## 🛠️ Pomali AI Branding & Asset Generation Workflow
+## 📝 2. Master System Prompt Used for Profile Initialization
 
-    [ Brand DNA Input ] ──> [ Pomali AI Engine ] ──> ┌─> Brand Book (PDF Guideline)
-     • Mission & Tagline     (Synthesizes Themes,     ├─> Synthetic Product Photoshoots
-     • Core Values           Fonts, & Voice)          └─> Animated Social Campaign Assets
-     • Sample Product Shot
+    Brand: AT Food Co.
+    Category: D2C Fresh Dog Nutrition & Digital Health Tracking
+    Business Overview: AT Food Co. delivers chef-prepared, human-grade fresh dog meal plans customized to a dog's specific breed, age, and caloric needs—integrated with our digital Dog Life Record health tracking application.
+    Core Mission: Eliminate kibble guilt through transparent ingredients and scientifically backed canine nutrition.
 
-### Executed Pomali Automation Modules
-1. **Brand DNA & Guidelines:** Auto-generated brand system including typography, color hex codes, tone of voice rules, and tagline execution (*"Fresh Nutrition for Your Best Friend"*).
-2. **AI Product Photo Studio:** Generated contextual background scenes (modern kitchens, vibrant park picnics) from a single raw product pouch photo, eliminating $5,000+ studio shoot budgets.
-3. **Campaign Asset Engine:** Produced high-converting Instagram Reel ad creatives with dynamic visual effects for seasonal launch campaigns.
+---
+
+## 💡 3. Key Learnings & Operational Insights
+
+* **Context Priming:** Spending time fine-tuning the initial Business Profile eliminates 90% of downstream AI hallucination in copy and color mismatches in ad creatives.
+* **Color Specificity:** Providing exact Hex codes (#2E7D32, #E65100, #FDFBF7) ensures Google Pomelli renders exact brand colors across web and video generators.
